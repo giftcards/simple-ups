@@ -2,6 +2,8 @@
 
 use SimpleUPS\Api\InvalidParameterException;
 
+use JMS\Serializer\SerializerBuilder;
+
 /**
  * Information about an address
  * This class is used as a container throughout the library to pass addresses back

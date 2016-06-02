@@ -1,5 +1,7 @@
 <?php namespace SimpleUPS\AddressValidate;
 
+use JMS\Serializer\SerializerBuilder;
+
 /**
  * @since 1.0
  */
